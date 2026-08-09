@@ -44,7 +44,7 @@ temp_Label = Label(win,text="Temperature",font=("Time New Romen",20,))
 temp_Label.place(x=25, y=400, height=50, width=210)
 
 temp_Label1 = Label(win,text="",font=("Time New Romen",20,))
-tem_Label1.place(x=250, y=400, height=50, width=210)
+temp_Label1.place(x=250, y=400, height=50, width=210)
 
 per_Label = Label(win,text="Pressure",font=("Time New Romen",20,))
 per_Label.place(x=25, y=470, height=50, width=210)
